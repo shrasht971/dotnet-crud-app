@@ -90,6 +90,8 @@ namespace Application
                 con.Close();
                 BindGrid();
 
+
+
             }
         }
             protected void gvform_RowCommand(object sender, GridViewCommandEventArgs e)
